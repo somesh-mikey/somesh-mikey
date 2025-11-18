@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BrandBot : A MarTech SaaS platform combining AI-powered content generation, custom CMS capabilities, and brand communication strategy.**
 
-- 🌱 I’m currently learning **about cloud based**
+- 🌱 I’m currently learning **about cloud based infrastructures**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
