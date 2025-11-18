@@ -1,5 +1,5 @@
 <h1 align="center">Somesh Das</h1>
-<h3 align="center">Motivated B.Tech Computer Science and Engineering student with hands-on experience in frontend development, UI/UX design, and collaborative project management.</h3>
+<h3 align="center">Motivated B.Tech Computer Science and Engineering student with hands-on experience in fullstack development, UI/UX design, and collaborative project management.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somesh-mikey" alt="somesh-mikey" /></a> </p>
 
